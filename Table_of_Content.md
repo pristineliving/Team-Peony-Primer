@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Team Peony Primer, for BIME 535 Spring 2020
 
 You can use the [editor on GitHub](https://github.com/pristineliving/teamPeonyPrimer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
