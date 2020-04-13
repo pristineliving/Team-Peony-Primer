@@ -1,37 +1,13 @@
-## Team Peony Primer, for BIME 535 Spring 2020
+## Team Peony Primer, for BIME 535 Spring 2020, Clinical Informatics
 
-You can use the [editor on GitHub](https://github.com/pristineliving/teamPeonyPrimer/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Thank you for visiting our site of primers! Here, we share with you about what we learned from current medical systems in U.S., and focus on the current issues and potential solutions from clinicians' perspective. Feel free to leave comments: we would love to hear from you and brainstorm together!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Introduction to Authors
 
-### Markdown
+We are a group of students from University of Washington, BIME program.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Table of Content
 
-```markdown
-Syntax highlighted code block
+1. [An Overview of U.S. Health System and Its Current Situation](https://gist.github.com/pristineliving/36bb75e093976c8788713095e972dfc4#file-gistfile1-txt)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/pristineliving/teamPeonyPrimer/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
