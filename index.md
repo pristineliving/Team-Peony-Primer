@@ -8,6 +8,6 @@ We are a group of students from University of Washington, BIME program.
 
 ### Table of Content
 
-1. [An Overview of U.S. Health System and Its Current Situation](https://gist.github.com/pristineliving/36bb75e093976c8788713095e972dfc4#file-gistfile1-txt)
+1. [An Overview of U.S. Health System and Its Current Situation](https://github.com/pristineliving/Team-Peony-Primer/issues/1)
 
 
