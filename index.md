@@ -1,6 +1,6 @@
 ## Insights of Informaticians to U.S. Healthcare System
 
-Thank you for visiting our site of primers! Here, we share with you about what we learned from current medical systems in U.S., and focus on the current issues and potential solutions from junior informaticians' perspective. Feel free to leave comments: we would love to hear from you and brainstorm together! 
+Thank you for visiting our site of primers! Here, we share with you about what we learned from current medical systems in U.S., and focus on the contemporary issues and potential solutions from junior informaticians' perspective. Feel free to leave comments: we would love to hear from you and brainstorm together! 
 
 ### Introduction to Authors
 
