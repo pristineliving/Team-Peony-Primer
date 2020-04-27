@@ -12,7 +12,8 @@ Mu Yang, Ph.D. BIME
 
 Tianran Li, M.S. BIME
 
-### [Table of Content](https://github.com/pristineliving/Team-Peony-Primer/issues)
+### Table of Content [Link](https://github.com/pristineliving/Team-Peony-Primer/issues)
 
 1. [An Overview of U.S. Health System and Its Current Situation](https://github.com/pristineliving/Team-Peony-Primer/issues/1)
 2. [Electronic Health Record and Its Application in U.S.](https://github.com/pristineliving/Team-Peony-Primer/issues/2)
+3. [Overview: Clinical Decision Support and Computerized Provider Order Entry Systems](https://github.com/pristineliving/Team-Peony-Primer/issues/3)
