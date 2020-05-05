@@ -17,3 +17,4 @@ Tianran Li, M.S. BIME
 1. [An Overview of U.S. Health System and Its Current Situation](https://github.com/pristineliving/Team-Peony-Primer/issues/1)
 2. [Electronic Health Record and Its Application in U.S.](https://github.com/pristineliving/Team-Peony-Primer/issues/2)
 3. [Overview: Clinical Decision Support and Computerized Provider Order Entry Systems](https://github.com/pristineliving/Team-Peony-Primer/issues/3)
+4. [Health Data Confidentiality and Security](https://github.com/pristineliving/Team-Peony-Primer/issues/4)
