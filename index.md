@@ -18,3 +18,4 @@ Tianran Li, M.S. BIME
 2. [Electronic Health Record and Its Application in U.S.](https://github.com/pristineliving/Team-Peony-Primer/issues/2)
 3. [Overview: Clinical Decision Support and Computerized Provider Order Entry Systems](https://github.com/pristineliving/Team-Peony-Primer/issues/3)
 4. [Health Data Confidentiality and Security](https://github.com/pristineliving/Team-Peony-Primer/issues/4)
+5. [Healthcare and Change Management](https://github.com/pristineliving/Team-Peony-Primer/issues/5)
