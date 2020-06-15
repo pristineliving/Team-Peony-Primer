@@ -21,3 +21,5 @@ Tianran Li, M.S. BIME
 5. [Healthcare and Change Management](https://github.com/pristineliving/Team-Peony-Primer/issues/5)
 6. [Patient-Centered Medical Home and Accountable Care Organizations](https://github.com/pristineliving/Team-Peony-Primer/issues/6)
 7. [Health Information Exchange](https://github.com/pristineliving/Team-Peony-Primer/issues/7)
+8. [Analytics in Healthcare](https://github.com/pristineliving/Team-Peony-Primer/issues/8)
+    Note: We have the op-ed chapters in the comment section of Chapter 8
