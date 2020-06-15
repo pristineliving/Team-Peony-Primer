@@ -19,3 +19,5 @@ Tianran Li, M.S. BIME
 3. [Overview: Clinical Decision Support and Computerized Provider Order Entry Systems](https://github.com/pristineliving/Team-Peony-Primer/issues/3)
 4. [Health Data Confidentiality and Security](https://github.com/pristineliving/Team-Peony-Primer/issues/4)
 5. [Healthcare and Change Management](https://github.com/pristineliving/Team-Peony-Primer/issues/5)
+6. [Patient-Centered Medical Home and Accountable Care Organizations](https://github.com/pristineliving/Team-Peony-Primer/issues/6)
+7. [Health Information Exchange](https://github.com/pristineliving/Team-Peony-Primer/issues/7)
