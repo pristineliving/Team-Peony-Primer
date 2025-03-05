@@ -4,7 +4,7 @@ Thank you for visiting our site of primers! Here, we share with you about what w
 
 ### Introduction to Authors
 
-We are a group of students from BIME Program at School of Medicine, University of Washington. Our members are:
+We are a group of scholars from BIME Program at School of Medicine, University of Washington. Our members are:
 
 Abby Menschik, Ph.D. BIME
 
